@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE class SYSTEM "Trade.dtd">
+
+<class>
+  <record>
+    <id>001</id>
+    <name>mike</name>
+    <product>phone</product>
+    <num>200</num>
+    <singleprice>1000.0</singleprice>
+    <Totalprice>20000.0</Totalprice>
+    <Profit>10000.0</Profit>
+  </record>
+  <record>
+    <id>002</id>
+    <singleprice>5.0</singleprice>
+    <Totalprice>30000.0</Totalprice>
+    <Profit>2000.0</Profit>
+    <name>Jane</name>
+    <product>banana</product>
+    <num>600</num>
+  </record>
+</class>

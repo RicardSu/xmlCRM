@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE class SYSTEM "client.dtd">
+
+<class>
+  <client>
+    <id>001</id>
+    <name>Tony</name>
+    <sex>man</sex>
+    <age>29</age>
+    <singleprice>200.0</singleprice>
+    <sale>50000.0</sale>
+    <profit>3000.0</profit>
+  </client>
+  <client>
+    <id>002</id>
+    <name>Mike</name>
+    <sex>woman</sex>
+    <age>30</age>
+    <singleprice>70.0</singleprice>
+    <sale>80000.0</sale>
+    <profit>2000.0</profit>
+  </client>
+  <client>
+    <id>003</id>
+    <singleprice>40.0</singleprice>
+    <sale>30000.0</sale>
+    <profit>3000.0</profit>
+    <name>Anna</name>
+    <sex>woman</sex>
+    <age>23</age>
+  </client>
+  <client>
+    <id>004</id>
+    <singleprice>200.0</singleprice>
+    <sale>50000.0</sale>
+    <profit>4000.0</profit>
+    <name>SLX</name>
+    <sex>man</sex>
+    <age>21</age>
+  </client>
+</class>

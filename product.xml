@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE class SYSTEM "product.dtd">
+
+<class>
+  <product>
+    <id>001</id>
+    <name>toy</name>
+    <stock>2000</stock>
+    <specification>big</specification>
+    <singleprice>6.0</singleprice>
+    <purchaseprice>2.0</purchaseprice>
+    <currentsale>60000.0</currentsale>
+  </product>
+  <product>
+    <id>002</id>
+    <name>banana</name>
+    <stock>5000</stock>
+    <specification>small</specification>
+    <singleprice>3.0</singleprice>
+    <purchaseprice>2.0</purchaseprice>
+    <currentsale>60000.0</currentsale>
+  </product>
+  <product>
+    <id>003</id>
+    <name>phone</name>
+    <stock>500</stock>
+    <specification>apple</specification>
+    <singleprice>1000.0</singleprice>
+    <purchaseprice>500.0</purchaseprice>
+    <currentsale>60000.0</currentsale>
+  </product>
+</class>

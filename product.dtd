@@ -1,0 +1,12 @@
+<!ELEMENT class (client*)>
+<!ELEMENT product (id,name,specification,stock,singleprice,purchaseprice,currentsale)>
+<!ELEMENT id (#PCDATA)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT specification (#PCDATA)>
+<!ELEMENT stock (#PCDATA)>
+<!ELEMENT singleprice (#PCDATA)>
+<!ELEMENT purchaseprice (#PCDATA)>
+<!ELEMENT currentsale (#PCDATA)>
+<!ATTLIST product
+
+>

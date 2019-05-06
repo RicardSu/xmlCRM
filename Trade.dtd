@@ -1,0 +1,12 @@
+<!ELEMENT class (record*)>
+<!ELEMENT record (id,name,sex,age,singleprice,Totalprice,Profit)>
+<!ELEMENT id (#PCDATA)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT sex (#PCDATA)>
+<!ELEMENT age (#PCDATA)>
+<!ELEMENT singleprice (#PCDATA)>
+<!ELEMENT Totalprice (#PCDATA)>
+<!ELEMENT Profit (#PCDATA)>
+<!ATTLIST record
+
+>

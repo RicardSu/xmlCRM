@@ -1,0 +1,11 @@
+﻿<!ELEMENT class (client*)>
+<!ELEMENT client (id,name,sex,age,course,singleprice,sale,profit)>
+<!ELEMENT id (#PCDATA)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT sex (#PCDATA)>
+<!ELEMENT age (#PCDATA)>
+<!ELEMENT singleprice (#PCDATA)>
+<!ELEMENT sale (#PCDATA)>
+<!ELEMENT profit (#PCDATA)>
+<!ATTLIST client
+>
